@@ -1,5 +1,5 @@
 # C-LoRA  
-**Contextual Low-Rank Adaptation for Uncertainty Estimation in Large Language Models**  
+This repository contains codes for **Contextual Low-Rank Adaptation for Uncertainty Estimation in Large Language Models**  
 
 [Paper (arXiv)](https://arxiv.org/pdf/2505.17773)  
 
