@@ -1,5 +1,6 @@
 # C-LoRA  
 This repository contains codes for **Contextual Low-Rank Adaptation for Uncertainty Estimation in Large Language Models**  
+**NeurIPS 2025**
 
 [Paper (arXiv)](https://arxiv.org/pdf/2505.17773)  
 
@@ -30,6 +31,7 @@ For experiments, use the script provided in scripts directory.
 
 ---
 ## Citation
+If you find this work useful, please cite our NeurIPS 2025 paper:
 ```bibtex
 @article{Rahmati2025CLORA,
   title   = {C-LoRA: Contextual Low-Rank Adaptation for Uncertainty Estimation in Large Language Models},
