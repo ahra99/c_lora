@@ -31,7 +31,7 @@ For experiments, use the script provided in scripts directory.
 
 ---
 ## Citation
-If you find this work useful, please cite our NeurIPS 2025 paper:
+If you find this work useful, please cite our paper:
 ```bibtex
 @inproceedings{
 anonymous2025clora,
