@@ -12,7 +12,7 @@ C-LoRA is a **parameter-efficient**, **uncertainty-aware** fine-tuning method fo
 
 Unlike prior Bayesian LoRA or mean-field approaches, C-LoRA (1) uses a **lightweight factorization** to reduce complexity, and (2) integrates a small **contextual module** that conditions the posterior distribution of adapter parameters on each input sample.  
 
-The method achieves strong performance on calibration metrics (like ECE, NLL) while maintaining competitive accuracy across reasoning benchmarks and showing robustness under distribution shift.  [oai_citation:1‡arXiv](https://arxiv.org/pdf/2505.17773)  
+The method achieves strong performance on calibration metrics (like ECE, NLL) while maintaining competitive accuracy across reasoning benchmarks and showing robustness under distribution shift. 
 
 ---
 
