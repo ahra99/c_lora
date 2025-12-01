@@ -34,9 +34,9 @@ For experiments, use the script provided in scripts directory.
 If you find this work useful, please cite our paper:
 ```bibtex
 @inproceedings{
-anonymous2025clora,
+rahmati2025clora,
 title={C-Lo{RA}: Contextual Low-Rank Adaptation for Uncertainty Estimation in Large Language Models},
-author={Anonymous},
+author={Amir Hossein Rahmati and Sanket Jantre and Weifeng Zhang and Yucheng Wang and Byung-Jun Yoon and Nathan Urban and Xiaoning Qian},
 booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
 year={2025},
 url={https://openreview.net/forum?id=siPeAstQLq}
